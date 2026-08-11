@@ -41,6 +41,20 @@
       ]
     },
     {
+      "id": "algorithmic-problem-solving",
+      "title": "Algorithmic Problem Solving",
+      "description": "Practice algorithms with lists, dictionaries, and prime number logic in Python.",
+      "path": "assignments/algorithmic-problem-solving",
+      "dueDate": "2026-08-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
